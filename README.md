@@ -16,12 +16,12 @@ A traditional proxy site frontend for use in combating web filters. Currently us
 ## Setup
 
 ### Automatic Deployment (compatibility not guaranteed):
-[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/titaniumnetwork-dev/Vanadium) [![Deploy](https://raw.githubusercontent.com/titaniumnetwork-dev/Vanadium/main/replit.svg)](https://repl.it/github/titaniumnetwork-dev/Vanadium)
+[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/Titanium-Network/Vanadium) [![Deploy](https://raw.githubusercontent.com/Titanium-Network/Vanadium/main/replit.svg)](https://repl.it/github/Titanium-Network/Vanadium)
 
 ### Manual Deployment (for use on your own Linux server):
 
 ```sh
-git clone https://github.com/titaniumnetwork-dev/Vanadium
+git clone https://github.com/Titanium-Network/Vanadium
 cd Vanadium
 npm install
 npm start
